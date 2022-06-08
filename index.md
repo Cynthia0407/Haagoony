@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### 학교운영위원회에 대해 궁금하신가요?
 
-You can use the [editor on GitHub](https://github.com/Cynthia0407/Haagoony/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  안녕하세요! 학운위 업무를 맡으신 경기도 교직원 여러분!   
+  **오른쪽 아래**에
+     ![하구니_아이콘 3](https://user-images.githubusercontent.com/103112399/166663273-bde9dac2-5979-45ea-ba55-e94697e0606c.png) 버튼을 눌러서 챗봇을 실행해보세요.      
+  처음 메뉴로 가고 싶다면 "__처음으로__"라고 입력해주세요.
+* * *
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 💌하구니💌가 도와드릴 수 있는 것은 다음과 같아요.
+  1. 1️⃣ 업무에 대한 전반적인 흐름을 알 수 있어요.
+  2. 2️⃣ 업무 절차에 대한 지식을 얻을 수 있어요.
+  3. 3️⃣ 필요한 서식을 바로 얻을 수 있어요.
+  4. 4️⃣ 관련 법령에 대한 정보를 얻을 수 있어요.
 
-### Markdown
+  하구니 챗봇은 2022 경기도교육청 학교운영위원회    [업무편람](https://github.com/Cynthia0407/Hagoony/issues/17#issue-1252626516)과 [핸드북](https://github.com/Cynthia0407/Hagoony/issues/16#issue-1252626208)을 기반으로 만들어졌습니다.📃
+* * *
+### 📢 지금 바로 챗봇을 시작해보세요.
+![클릭 안내](https://user-images.githubusercontent.com/103112399/172558601-ac91cee8-4d64-43fc-a5e8-445e388724ec.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* * *
+### 지원 및 문의
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cynthia0407/Haagoony/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  챗봇에 문제가 있거나, 더 문의할 내용이 있나요? [카카오톡 채팅](http://pf.kakao.com/_jKmxib/chat) 또는 _sunny@korea.kr_ 로 연락을 남겨주세요. 감사합니다😆
