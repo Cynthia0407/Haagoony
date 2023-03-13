@@ -23,4 +23,4 @@
 * * *
 ### 지원 및 문의
 
-  챗봇에 문제가 있거나, 더 문의할 내용이 있나요? [카카오톡 채팅](http://pf.kakao.com/_jKmxib/chat) 또는 _sunny@korea.kr_ 로 연락을 남겨주세요. 감사합니다😆
+  챗봇에 문제가 있거나, 더 문의할 내용이 있나요? [카카오톡 채팅](http://pf.kakao.com/_jKmxib/chat) 또는 _sunny0407@korea.kr_ 로 연락을 남겨주세요. 감사합니다😆
